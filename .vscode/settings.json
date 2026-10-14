@@ -1,0 +1,9 @@
+{
+  "editor.unicodeHighlight.allowedCharacters": { "×": true },
+  "editor.inlayHints.enabled": "off",
+  "terminal.integrated.defaultProfile.windows": "MSYS2 UCRT64",
+  "cSpell.words": [ "Galculator" ],
+  "C_Cpp.default.compileCommands": "c:\\Workspace\\Galculator\\builddir/compile_commands.json",
+  "C_Cpp.default.configurationProvider": "mesonbuild.mesonbuild",
+  "[vala]": { "editor.defaultFormatter": "ajkhoury.uncrustify-format" },
+}
